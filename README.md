@@ -46,7 +46,7 @@ Excel, MS Power BI, Tableau
 </p>
 
 # Tableau 
-https://public.tableau.com/views/HeartDiseaseDetectionAnalysis/HeartDiseaseAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/saakar.sengar/viz/HeartDiseaseDetectionAnalysis/HeartDiseaseAnalysis
 
 # LinkedIn Post 📲
 
