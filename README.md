@@ -49,7 +49,7 @@ Excel, MS Power BI, Tableau
 https://public.tableau.com/app/profile/saakar.sengar/viz/HeartDiseaseDetectionAnalysis/HeartDiseaseAnalysis
 
 # LinkedIn Post 📲
-
+https://www.linkedin.com/posts/saakar-sengar_powerbi-tableau-activity-6889842328358400000-XrlC
 
 # Youtube Video 🎬
 https://youtu.be/rEZu1V5QuNA
