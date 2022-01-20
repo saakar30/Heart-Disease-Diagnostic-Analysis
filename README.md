@@ -34,6 +34,17 @@ Excel, MS Power BI, Tableau
 -Cholesterol and maximum heart rate Increasing in the age group of 50 60.
 
 -ST depression mostly increases between the age group of 30 40.
+
+## Power BI Dashboard
+<p align="center">
+  <img src="https://github.com/saakar30/Heart-Disease-Diagnostic-Analysis/blob/main/Heart%20Disease%20Analysis%20Power%20Bi.jpg">
+</p>
+
+## Tableau Dashboard
+<p align="center">
+  <img src="https://github.com/saakar30/Heart-Disease-Diagnostic-Analysis/blob/main/Heart%20Disease%20Analysis%20Tableau.jpg">
+</p>
+
 # Tableau 
 https://public.tableau.com/views/HeartDiseaseDetectionAnalysis/HeartDiseaseAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link
 
@@ -41,3 +52,4 @@ https://public.tableau.com/views/HeartDiseaseDetectionAnalysis/HeartDiseaseAnaly
 
 
 # Youtube Video 🎬
+https://youtu.be/rEZu1V5QuNA
